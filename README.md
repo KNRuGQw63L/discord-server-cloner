@@ -14,7 +14,7 @@ An efficient tool to clone Discord server without having any need of admin privi
 
  
 ## Installation & Usage
-1. Download the repository and extract the files.
+1. Download the repository and extract the files. 
 2. Run the `install.bat` file to install all necessary Python packages.
 3. Follow the on-screen instructions to provide your Discord token and server IDs. 
 4. The tool will guide you through the cloning process. 
