@@ -1,5 +1,5 @@
 # Discord Server Cloner  
-An efficient tool to clone Discord server without having any need of admin privileges.   
+An efficient tool to clone Discord server without having any need of admin privileges.    
 
 ## Features 
 - **No Admin Privileges Needed**: Clone servers without requiring admin rights.
