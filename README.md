@@ -6,7 +6,7 @@ An efficient tool to clone Discord server without having any need of admin privi
 - **Full Server Replication**: Copy channels, roles, categories, and other server settings.
 - **User-Friendly**: Simple interface and easy to follow prompts.
 - **Customizable Cloning**: Choose whether to include server emojis in the clone.  
-
+ 
 ## Screenshots     
 ![Screenshot 1](https://media.discordapp.net/attachments/1281652598046462078/1283058516294373467/chrome_fTgRUXKW3c.png?ex=66e19cdc&is=66e04b5c&hm=de75be5b04ccf76df5a6c2b1418cdb078c4097795cd6f232c75753dd01e5baad&=&format=webp&quality=lossless)   
    
