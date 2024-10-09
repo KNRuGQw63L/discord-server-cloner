@@ -1,4 +1,4 @@
-# Discord Server Cloner   
+# Discord Server Cloner    
 An efficient tool to clone Discord server without having any need of admin privileges.       
      
 ## Features    
